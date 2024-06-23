@@ -1,5 +1,5 @@
 
-const uri = "mongodb+srv://abdulmoizsarwar21:abdulmoiz123@node-test-app.0ounrb0.mongodb.net/sample_mflix?retryWrites=true&w=majority&appName=Node-test-app";
+const uri = "Mongo DB URL";
 
 const express = require('express')
 const mongoose = require('mongoose')
